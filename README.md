@@ -1,4 +1,4 @@
-Firestore React Social Feed
+Firestore React Social Feed.
 A simple social feed web app built with React and Firebase Firestore.
 Users can sign in with Google, create posts, like/unlike posts, and delete their own posts.
 All data is stored in Firestore, and the UI updates in real time.
